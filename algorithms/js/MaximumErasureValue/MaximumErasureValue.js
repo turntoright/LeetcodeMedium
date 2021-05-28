@@ -7,12 +7,10 @@
     const m = {};
     let [i, j] = [0, 0];
     while (j < nums.length) {
-        if (m[nums[j]]) {
-            while (m[nums[j]]) {
-                currSum -= nums[i];     
-                m[nums[i]] = null;
-                i++;
-            }
+        while (m[nums[j]]) {
+            currSum -= nums[i];     
+            m[nums[i]] = null;
+            i++;
         }
         m[nums[j]] = 1;
         currSum += nums[j];
