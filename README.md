@@ -109,7 +109,7 @@ LeetCode
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [C++](./algorithms/cpp/countGoodMeals/CountGoodMeals.cpp)|Medium|
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [C++](./algorithms/cpp/maximumUnitsOnATruck/MaximumUnitsOnATruck.cpp)|Easy|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [C++](./algorithms/cpp/numberOfStudentsUnableToEatLunch/NumberOfStudentsUnableToEatLunch.cpp)|Easy|
-|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [C++](./algorithms/cpp/maximumErasureValue/MaximumErasureValue.cpp)|Medium|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [JS](./algorithms/js/MaximumErasureValue/MaximumErasureValue.js)|Medium|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [C++](./algorithms/cpp/reformatPhoneNumber/ReformatPhoneNumber.cpp)|Easy|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [JS](./algorithms/js/PartitioningIntoMinimumNumberOfDeci-BinaryNumbers/PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js)|Medium|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [JS](./algorithms/js/MergeInBetweenLinkedLists/MergeInBetweenLinkedLists.js)|Medium|
