@@ -136,6 +136,7 @@ LeetCode
 |1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) | [C++](./algorithms/cpp/bulbSwitcher/BulbSwitcher.III.cpp)|Medium|
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [C++](./algorithms/cpp/maximumNumberOfEventsThatCanBeAttended/MaximumNumberOfEventsThatCanBeAttended.cpp)|Medium|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [C++](./algorithms/cpp/filterRestaurantsByVeganFriendlyPriceAndDistance/FilterRestaurantsByVeganFriendlyPriceAndDistance.cpp)|Medium|
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [JS](./algorithms/js/SearchSuggestionsSystem/SearchSuggestionsSystem.js)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/cpp/uniqueNumberOfOccurrences/Unique-Number-of-Occurrences.cpp)|Easy|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [C++](./algorithms/cpp/compareStringsByFrequencyOfTheSmallestCharacter/CompareStringsByFrequencyOfTheSmallestCharacter.cpp)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](./algorithms/cpp/greatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings.cpp)|Easy|
