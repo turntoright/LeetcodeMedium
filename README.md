@@ -232,6 +232,7 @@ LeetCode
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [JS](./algorithms/js/MinimumMovestoEqualArrayElementsII/MinimumMovestoEqualArrayElementsII.js)|Medium|
 |450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./algorithms/python/DeleteNodeInABST/deleteNode.py)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](./algorithms/python/SerializeAndDeserializeBST/serialize.py)|Medium|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [JS](./algorithms/js/NumberofBoomerangs/NumberofBoomerangs.py)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [JS](./algorithms/js/AddTwoNumbersII/AddTwoNumbersII.js)|Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [JS](./algorithms/js/FindAllDuplicatesinanArray/FindAllDuplicatesinanArray.js)|Medium|
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./algorithms/cpp/findAllAnagramsInAString/Find-All-Anagrams-in-a-String.cpp)|Medium|
