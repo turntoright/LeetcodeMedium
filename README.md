@@ -491,7 +491,7 @@ LeetCode
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./algorithms/cpp/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](./algorithms/cpp/editDistance/editDistance.cpp)|Hard|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./algorithms/cpp/simplifyPath/simplifyPath.cpp)|Medium|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./algorithms/cpp/climbStairs/climbStairs.cpp), [Java](./algorithms/java/src/dynamicProgramming/climbStairs/climbStairs.java)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [JS](./algorithms/js/ClimbingStairs/ClimbingStairs.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./algorithms/cpp/sqrt/sqrt.cpp)|Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| [C++](./algorithms/cpp/textJustification/textJustification.cpp)|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](./algorithms/cpp/addBinary/addBinary.cpp)|Easy|
