@@ -367,7 +367,7 @@ LeetCode
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](./algorithms/cpp/houseRobber/houseRobber.II.cpp)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| [C++](./algorithms/cpp/wordSearch/wordSearch.II.cpp)|Hard|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [C++](./algorithms/cpp/addAndSearchWord/AddAndSearchWord.cpp)|Medium|
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [C++](./algorithms/cpp/courseSchedule/CourseSchedule.II.cpp)|Medium|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [JS](./algorithms/js/CourseScheduleII/CourseScheduleII.js)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [C++](./algorithms/cpp/minimumSizeSubarraySum/MinimumSizeSubarraySum.cpp)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [C++](./algorithms/cpp/implementTriePrefixTree/ImplementTriePrefixTree.cpp)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| [C++](./algorithms/cpp/courseSchedule/CourseSchedule.cpp)|Medium|
