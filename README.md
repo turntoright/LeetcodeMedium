@@ -36,6 +36,7 @@ LeetCode
 |1696|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [JS](./algorithms/js/JumpGameVI/JumpGameVI.js)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [JS](./algorithms/js/MaximumErasureValue/MaximumErasureValue.js)|Medium|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [C++](./algorithms/cpp/reformatPhoneNumber/ReformatPhoneNumber.cpp)|Easy|
+|1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [JS](./algorithms/js/StoneGameVII/StoneGameVII.js)|Medium|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [JS](./algorithms/js/PartitioningIntoMinimumNumberOfDeci-BinaryNumbers/PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js)|Medium|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [JS](./algorithms/js/MergeInBetweenLinkedLists/MergeInBetweenLinkedLists.js)|Medium|
 |1625|[Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [C++](./algorithms/cpp/lexicographicallySmallestStringAfterApplyingOperations/LexicographicallySmallestStringAfterApplyingOperations.cpp)|Medium|
