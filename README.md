@@ -31,7 +31,7 @@ LeetCode
 |1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [C++](./algorithms/cpp/calculateMoneyInLeetcodeBank/CalculateMoneyInLeetcodeBank.cpp)|Easy|
 |1712|[Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [C++](./algorithms/cpp/waysToSplitArrayIntoThreeSubarrays/WaysToSplitArrayIntoThreeSubarrays.cpp)|Medium|
 |1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [C++](./algorithms/cpp/countGoodMeals/CountGoodMeals.cpp)|Medium|
-|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [C++](./algorithms/cpp/maximumUnitsOnATruck/MaximumUnitsOnATruck.cpp)|Easy|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [JS](./algorithms/js/MaximumUnitsonaTruck/MaximumUnitsonaTruck.js)|Easy|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [C++](./algorithms/cpp/numberOfStudentsUnableToEatLunch/NumberOfStudentsUnableToEatLunch.cpp)|Easy|
 |1696|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [JS](./algorithms/js/JumpGameVI/JumpGameVI.js)|Medium|
 |1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [JS](./algorithms/js/MaximumErasureValue/MaximumErasureValue.js)|Medium|
