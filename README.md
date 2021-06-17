@@ -117,6 +117,7 @@ LeetCode
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [C++](./algorithms/cpp/shortEncodingOfWords/ShortEncodingOfWords.cpp)|Medium|
 |816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | [python](./algorithms/python/AmbiguousCoordinates/AmbiguousCoordinates.py)|Medium|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](./algorithms/cpp/uniqueMorseCodeWords/UniqueMorseCodeWords.cpp)|Easy|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [JS](./algorithms/js/NumberofSubarrayswithBoundedMaximum/NumberofSubarrayswithBoundedMaximum.js)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [C++](./algorithms/cpp/jewelsAndStones/JewelsAndStones.cpp)|Easy|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/) | [JS](./algorithms/js/OpentheLock/OpentheLock.js)|Medium|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./algorithms/python/LargestNumberAtLeastTwiceOfOthers/dominantIndex.py)|Easy|
