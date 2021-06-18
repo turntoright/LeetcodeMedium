@@ -156,6 +156,7 @@ LeetCode
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](./algorithms/cpp/fibonacciNumber/FibonacciNumber.cpp), [Python](./algorithms/python/FibonacciNumber/fib.py)|Easy|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [C++](./algorithms/cpp/randomPointInNonOverlappingRectangles/randomPointInNonOverlappingRectangles.cpp)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [JS](./algorithms/js/TargetSum/TargetSum.js)|Medium|
+|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [JS](./algorithms/js/PredicttheWinner/PredicttheWinner.js)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [JS](./algorithms/js/MatchstickstoSquare/MatchstickstoSquare.js)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/islandPerimeter/IslandPerimeter.cpp)|Easy|
