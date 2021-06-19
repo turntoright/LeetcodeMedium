@@ -355,7 +355,7 @@ LeetCode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./algorithms/cpp/linkedListCycle/linkedListCycle.cpp)|Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [C++](./algorithms/cpp/wordBreak/wordBreak.II.cpp)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/)| [C++](./algorithms/cpp/wordBreak/wordBreak.cpp)|Medium|
-|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [C++](./algorithms/cpp/copyListWithRandomPointer/copyListWithRandomPointer.cpp), [Python](./algorithms/python/CopyListWithRandomPointer/copyRandomList.py)|Hard|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [JS](./algorithms/js/CopyListwithRandomPointer/CopyListwithRandomPointer.js)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [C++](./algorithms/cpp/singleNumber/singleNumber.II.cpp)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](./algorithms/cpp/singleNumber/singleNumber.cpp)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)| [C++](./algorithms/cpp/candy/candy.cpp)|Hard|
