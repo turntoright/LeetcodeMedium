@@ -402,7 +402,7 @@ LeetCode
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./algorithms/cpp/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp), [Python](./algorithms/python/UniqueBinarySearchTreesII/generateTrees.py)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./algorithms/cpp/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./algorithms/cpp/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./algorithms/cpp/reverseLinkedList/reverseLinkedList.II.cpp), [Java](./algorithms/java/src/reverseLinkedListII/ReverseLinkedListII.java), [Python](./algorithms/python/ReverseLinkedListII/reverseBetween.py)|Medium|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [JS](./algorithms/cpp/ReverseLinkedListII/ReverseLinkedListII.js)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./algorithms/cpp/decodeWays/decodeWays.cpp)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./algorithms/cpp/subsets/subsets.II.cpp), [Java](./algorithms/java/src/subsets/subsetsII.java)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)| [C++](./algorithms/cpp/grayCode/grayCode.cpp)|Medium|
