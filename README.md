@@ -130,7 +130,7 @@ LeetCode
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [C++](./algorithms/cpp/minimumASCIIDeleteSumForTwoStrings/MinimumAsciiDeleteSumForTwoStrings.cpp)|Medium|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [JS](./algorithms/js/MaxAreaofIsland/MaxAreaofIsland.js)|Medium|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/longestUnivaluePath.py)|Easy|
-|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./algorithms/python/RedundantConnection/findRedundantConnection.py)|Medium|
+|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [JS](./algorithms/js/RedundantConnection/RedundantConnection.js)|Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Python](./algorithms/python/LongestContinuousIncreasingSubsequence/findLengthOfLCIS.py)|Easy|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/submissions/) | [C++](./algorithms/cpp/bulbSwitcher/BulbSwitcher.II.cpp)|Medium|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Python](./algorithms/python/SecondMinimumNodeInABinaryTree/findSecondMinimumValue.py)|Easy|
