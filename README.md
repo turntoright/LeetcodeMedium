@@ -360,7 +360,7 @@ LeetCode
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [JS](./algorithms/js/CopyListwithRandomPointer/CopyListwithRandomPointer.js)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [C++](./algorithms/cpp/singleNumber/singleNumber.II.cpp)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](./algorithms/cpp/singleNumber/singleNumber.cpp)|Medium|
-|135|[Candy](https://leetcode.com/problems/candy/)| [C++](./algorithms/cpp/candy/candy.cpp)|Hard|
+|135|[Candy](https://leetcode.com/problems/candy/)| [JS](./algorithms/js/Candy/Candy.js)|Hard|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./algorithms/cpp/gasStation/gasStation.cpp)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](./algorithms/cpp/cloneGraph/cloneGraph.cpp)|Medium|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [C++](./algorithms/cpp/palindromePartitioning/palindromePartitioning.II.cpp)|Hard|
