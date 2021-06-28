@@ -433,7 +433,7 @@ LeetCode
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](./algorithms/cpp/validNumber/validNumber.cpp)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./algorithms/cpp/minimumPathSum/minimumPathSum.cpp), [Java](./algorithms/java/src/dynamicProgramming/minimumPathSum/minimumPathSum.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./algorithms/cpp/uniquePaths/uniquePaths.II.cpp), [Java](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePathsII.java)|Medium|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./algorithms/cpp/uniquePaths/uniquePaths.cpp), [Java](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePaths.java)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [JS](./algorithms/js/UniquePaths/UniquePaths.js)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./algorithms/cpp/rotateList/rotateList.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](./algorithms/cpp/permutationSequence/permutationSequence.cpp)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.II.cpp)|Medium|
